@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vlad1111
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning Artificial inteligence
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me
           on yahoo: sbengheci.vlad@yahoo.com
